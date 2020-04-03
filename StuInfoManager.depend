@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1576571516 source:c:\users\thinkpad\desktop\workspace\c++课设\stuinfomanager\main.cpp
+	<iostream>
+	"Stu_one.h"
+	"Stu_two.h"
+	<map>
+	<fstream>
+
+1576552944 source:c:\users\thinkpad\desktop\workspace\c++课设\stuinfomanager\src\stu_one.cpp
+	"Stu_one.h"
+
+1576552953 c:\users\thinkpad\desktop\workspace\c++课设\stuinfomanager\include\stu_one.h
+	"Stu.h"
+
+1576565938 source:c:\users\thinkpad\desktop\workspace\c++课设\stuinfomanager\src\stu.cpp
+	"Stu.h"
+
+1576565927 c:\users\thinkpad\desktop\workspace\c++课设\stuinfomanager\include\stu.h
+	<string>
+	<iostream>
+	<istream>
+	<stdlib.h>
+	<cstring>
+	<ctime>
+
+1576552969 source:c:\users\thinkpad\desktop\workspace\c++课设\stuinfomanager\src\stu_two.cpp
+	"Stu_two.h"
+
+1576552969 c:\users\thinkpad\desktop\workspace\c++课设\stuinfomanager\include\stu_two.h
+	"Stu.h"
+
